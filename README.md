@@ -17,7 +17,7 @@
 
 ## 📸 Screenshot
 
-![Grilli Screenshot](banner.png)
+![Grilli Screenshot](https://i.postimg.cc/SxvVdrdM/grilli.jpg)
 
 <hr>
 
