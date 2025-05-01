@@ -280,7 +280,7 @@ body.nav-active { overflow: hidden; }
 }
 
 .section-subtitle::after {
-  content: url('https://i.postimg.cc/XN1rsnLZ/separator.png');
+  content: url('images/separator.png');
   display: block;
   width: 100px;
   margin-inline: auto;
@@ -875,7 +875,7 @@ section {
   transform: translateX(-50%);
   width: 140px;
   height: 100%;
-  background-image: url('https://i.postimg.cc/6398m3FZ/img-pattern.png');
+  background-image: url('images/img-pattern.png');
   background-position: center;
   background-size: cover;
   background-repeat: repeat;
@@ -949,13 +949,13 @@ section {
   left: 50%;
   transform: translateX(-50%);
   width: 140px;
-  background-image: url('https://i.postimg.cc/6398m3FZ/img-pattern.png');
+  background-image: url('images/img-pattern.png');
   background-repeat: repeat;
 }
 
 .about .abs-img-2::before {
   inset: 0;
-  background-image: url('https://i.postimg.cc/zv8Fp8F2/badge-2-bg.png');
+  background-image: url('images/badge-2-bg.png');
   background-repeat: no-repeat;
   background-size: contain;
   animation: rotate360 15s linear infinite;
@@ -1088,7 +1088,7 @@ section {
 .testi {
   padding-block-end: 340px;
   position: static;
-  background-image: url('https://i.postimg.cc/3RRKGDPt/testimonial-bg.jpg');
+  background-image: url('images/testimonial-bg.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -1281,7 +1281,7 @@ textarea.input-field {
 \*-----------------------------------*/
 
 .footer{
-  background-image: url('https://i.postimg.cc/mkp1MsXH/footer-bg.jpg');
+  background-image: url('images/footer-bg.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -1293,7 +1293,7 @@ textarea.input-field {
   position: relative;
   padding: 50px 40px;
   margin-top: 10%;
-  background: var(--smoky-black-1) url("https://i.postimg.cc/T20Vf89G/footer-form-bg.png");
+  background: var(--smoky-black-1) url("images/footer-form-bg.png");
   background-position: center top;
   background-repeat: repeat;
 }
@@ -1303,7 +1303,7 @@ textarea.input-field {
   top: 0;
   width: 15px;
   height: 100%;
-  background-image: url("https://i.postimg.cc/Y93WrgQ8/footer-form-pattern.png");
+  background-image: url("images/footer-form-pattern.png");
 }
 
 .footer-brand::before { left: 0; }
