@@ -15,9 +15,9 @@
 
 <hr>
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-![Grilli Screenshot](https://grilli.milanwebportal.com/screenshot.png)
+![Grilli Screenshot](banner.png)
 
 <hr>
 
@@ -55,6 +55,7 @@ open index.html
 ## 📄 License
 
 **All files and design are the property of Milan Petkovski.**
+<br>
 The code is open for viewing but not allowed to be downloaded, modified, or used for commercial purposes without permission.
 
 <hr>
