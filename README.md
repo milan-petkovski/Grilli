@@ -1,9 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=e3c48f&center=true&vCenter=true&width=500&lines=Grilli+Website;Modern+Restaurant+Design;Responsive+and+Elegant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=e3c48f&center=true&vCenter=true&width=800&lines=Grilli+Website;Modern+Restaurant+Design;Refined+Dining+Experience" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <img src="https://i.postimg.cc/SxvVdrdM/grilli.jpg" width="500px" alt="Grilli Screenshot">
+</div>  
+
 <p align="center">
-  Grilli is a modern and elegant website created for a fine dining restaurant that values sophistication, quality, and unforgettable culinary experiences. Designed to reflect the ambiance of a luxury dining space, the site combines sleek visuals, smooth navigation, and carefully curated content to engage visitors and convert them into loyal guests. From showcasing signature dishes to highlighting the talent behind the kitchen, every section of the website is crafted to build trust and appetite. Whether someone is browsing from a desktop or mobile device, Grilli offers a seamless experience that emphasizes style, taste, and professionalism. It's not just a website — it's the digital essence of a refined culinary brand.
+  <strong>Grilli</strong> is a premium restaurant website crafted to embody elegance, taste, and sophistication.  
+  <br><br>
+  From an immersive food gallery to a sleek reservation form, every detail on <strong>Grilli</strong> is designed to reflect the ambiance of fine dining and elevate the digital presence of culinary excellence.
+  <br><br>
+  🍷 Where style meets substance — Grilli turns online visitors into loyal guests.
 </p>
 
 <p align="center">
@@ -12,33 +20,39 @@
   </a>
 </p>
 
-
 <hr>
 
-## 📸 Screenshot
+## 🧊 Project Overview
 
-![Grilli Screenshot](https://i.postimg.cc/SxvVdrdM/grilli.jpg)
+| Key Detail       | Info                                               |
+|------------------|----------------------------------------------------|
+| **Project Name** | Grilli                                             |
+| **Live URL**     | [grilli.milanwebportal.com](https://grilli.milanwebportal.com) |
+| **Type**         | Restaurant Website                                 |
+| **Launch Date**  | 24. April 2024.                                    |
+| **Author**       | [Milan Petkovski](https://milanwebportal.com)      |
 
-<hr>
+---
 
 ## 🚀 Technologies
 
-- HTML5  
-- CSS3  
-- JavaScript  
-- Responsive Design  
-- Font Awesome  
-- Google Fonts
+- `📄` HTML5  
+- `🎨` CSS3  
+- `🧠` JavaScript  
+- `📱` Responsive Design  
+- `⭐` Font Awesome  
+- `🔤` Google Fonts  
 
 <hr>
 
 ## 🎯 Features
 
-- 💡 Intuitive design
-- 📱 Fully responsive layout (mobile, tablet, desktop)
-- 📅 Reservation form
-- 📄 Menu with detailed descriptions
-- 📍 Contact page with map
+- `💡` Elegant and intuitive UI  
+- `📱` Fully responsive layout for all devices  
+- `📄` Menu section with detailed descriptions and layout  
+- `📆` Integrated reservation form  
+- `📍` Contact page with interactive map  
+- `🧑‍🍳` Showcase of chefs and signature dishes
 
 <hr>
 
@@ -54,19 +68,15 @@ open index.html
 
 ## 📄 License
 
-**All files and design are the property of Milan Petkovski.**
-<br>
+**All files and design are the property of Milan Petkovski.**  
 The code is open for viewing but not allowed to be downloaded, modified, or used for commercial purposes without permission.
 
 <hr>
 
 ## ✉️ Contact
 
-For more information or collaboration:
-<br>
-🌐 [milanwebportal.com](https://milanwebportal.com)
-<br>
-📧 [contact@milanwebportal.com](mailto:contact@milanwebportal.com)
-<br><br>
-
-> Made with ❤️ by Milan Petkovski
+Have a project in mind or want to work together?  
+🌐 [milanwebportal.com](https://milanwebportal.com)  
+📧 [contact@milanwebportal.com](mailto:contact@milanwebportal.com)  
+<br/>
+<p align="center"> 🚀 Built with passion, precision, and pixel-perfection by <strong>Milan Petkovski</strong> </p>
