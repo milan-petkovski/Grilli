@@ -5,6 +5,7 @@
 <div align="center">
   <img src="https://i.postimg.cc/SxvVdrdM/grilli.jpg" width="500px" alt="Grilli Screenshot">
 </div>  
+<br>
 
 <p align="center">
   <strong>Grilli</strong> is a premium restaurant website crafted to embody elegance, taste, and sophistication.  
